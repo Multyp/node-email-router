@@ -41,4 +41,4 @@ If the email is sent successfully, you'll see an alert message that says "Votre 
 envoyé avec succès!". If there's an error, you'll see an alert message that says "Une erreur
 s'est produite lors de l'envoi de votre message. Veuillez réessayer plus tard."
 ## License
-node-email-router is released under the MIT License.
+node-email-router is released under the [MIT License](./LICENSE).
