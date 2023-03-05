@@ -15,10 +15,10 @@ Once you have Node.js installed, you can clone this repository to your local mac
 git clone https://github.com/<your-username>/node-email-router.git
 `
 Next, navigate to the project directory and install the dependencies:
-`
+```
 cd node-email-router
 npm install
-`
+```
 ## Configuration
 To use node-email-router, you'll need to configure the server-side script with your Gmail
 account information. Open the 'server.js' file and update the 'user' and 'pass' properties
