@@ -23,7 +23,7 @@ npm install
 To use node-email-router, you'll need to configure the server-side script with your Gmail
 account information. Open the 'server.js' file and update the 'user' and 'pass' properties
 with your Gmail address and app password:
-```
+```javascript
 const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
