@@ -15,7 +15,7 @@ Once you have Node.js installed, you can clone this repository to your local mac
 git clone https://github.com/<your-username>/node-email-router.git
 `
 Next, navigate to the project directory and install the dependencies:
-```
+```bash
 cd node-email-router
 npm install
 ```
