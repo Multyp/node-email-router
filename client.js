@@ -1,4 +1,3 @@
-// Récupérer les données du formulaire
 const form = document.querySelector('form');
 const nameInput = document.querySelector('#name');
 const emailInput = document.querySelector('#email');
